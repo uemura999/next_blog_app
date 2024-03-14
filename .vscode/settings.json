@@ -1,0 +1,9 @@
+{
+    "[javascript]": {
+        "editor.formatOnSave": true
+    },
+    "[python]": {
+        "editor.formatOnSave": true
+    },
+    "editor.formatOnSave": true
+}

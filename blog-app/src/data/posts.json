@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "json-server",
+      "title": "json-serverを使ってみる",
+      "content": "json-serverを使っています。なう",
+      "createdAt": "2024/3/2"
+    },
+    {
+      "id": "revalidate-next.js14",
+      "title": "revalidate-next.js14",
+      "content": "楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい楽しい",
+      "createdAt": "2024/3/7"
+    },
+    {
+      "id": "oomotokisyoi",
+      "title": "oomotokimosugi",
+      "content": "kusai\nginnnann",
+      "createdAt": "2024-03-11T20:42:36.664Z"
+    },
+    {
+      "id": "kasjdl",
+      "title": "afdsjf",
+      "content": "dasf sdvvdvavv",
+      "createdAt": "2024-03-11T20:48:00.779Z"
+    },
+    {
+      "id": "test",
+      "title": "test",
+      "content": "test",
+      "createdAt": "2024-03-11T20:55:03.800Z"
+    }
+  ]
+}
